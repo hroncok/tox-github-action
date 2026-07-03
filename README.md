@@ -65,6 +65,7 @@ referred to as the "major version") represents the release of Fedora used in the
 ### v43.0
 
 * Uses Fedora 43 as the base container image.
+* Running pypy2 tox environment no longer works out of the box, see [tox documentation for details](https://tox.wiki/en/4.35.0/faq.html#testing-end-of-life-python-versions).
 
 ### v42.0
 
